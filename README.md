@@ -253,7 +253,3 @@ This repository is created for educational purposes as part of a university cour
 - [Attention Mechanism Paper](https://arxiv.org/abs/1409.0473)
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
 - [IMDb Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
-
----
-
-_Last updated: December 2024_
